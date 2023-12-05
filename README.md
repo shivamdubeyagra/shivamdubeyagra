@@ -3,9 +3,9 @@
 # Hi there👋 I am Shivam Dubey
 <div align="center">
   <h1>🚀 Full-Stack Web Developer 🚀</h1>
-  <p>Excited about the endless possibilities of web development, I'm committed to delivering high-quality, scalable, and secure web solutions.</p>
-  <p>Eager to contribute my technical expertise, creativity, and problem-solving abilities to a dynamic team dedicated to crafting exceptional digital experiences.</p>
-  <p>In my journey to becoming a full-stack web developer, I've gained proficiency in:</p>
+  <p>Excited about the endless possibilities of web development, I'm committed to delivering high-quality, scalable, and secure web solutions.
+  <p>Eager to contribute my technical expertise, creativity, and problem-solving abilities to a dynamic team dedicated to crafting exceptional digital experiences.
+  In my journey to becoming a full-stack web developer, I've gained proficiency in:</p>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
