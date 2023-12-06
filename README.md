@@ -1,6 +1,8 @@
 
 ![banner (2)](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/37116713-282c-4c1b-bcd7-62ad28ccea11)
 # Hi there👋 I am Shivam Dubey
+## 🌐 Socicals
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-dubey-agra/)
 <div align="center">
   <h1>🚀 Full-Stack Web Developer 🚀</h1>
   <p>Excited about the endless possibilities of web development, I'm committed to delivering high-quality, scalable, and secure web solutions.
