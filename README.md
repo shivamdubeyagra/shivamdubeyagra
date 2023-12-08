@@ -1,5 +1,5 @@
 
-![github-header-image (5)](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/1c2285f7-e6de-4e91-9f4e-679cab8510be)
+![github-header-image (6)](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/52ab2453-2332-4186-a60a-6e5811f7e473)
 
 # Hi there👋 I am Shivam Dubey
 <div align="left">
