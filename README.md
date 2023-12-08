@@ -24,7 +24,7 @@
   <p>Let's build something amazing together! 💻🌐</p>
 
 <h2>🌐 Connect with me</h2>
-## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-dubey-agra) 
 
 # 📊 GitHub Stats:
