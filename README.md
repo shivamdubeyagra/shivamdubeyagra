@@ -1,5 +1,6 @@
 
-![github-header-image (1)](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/27fffb21-c53f-4174-b707-379fcb2bb5f6)
+![github-header-image (2)](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/7289b381-ca85-43c9-aad7-ed5adf461a4b)
+
 
 # Hi there👋 I am Shivam Dubey
 <div align="left">
@@ -7,7 +8,7 @@
   <p>Excited about the endless possibilities of web development, I'm committed to delivering high-quality, scalable, and secure web solutions.
   Eager to contribute my technical expertise, creativity, and problem-solving abilities to a dynamic team dedicated to crafting exceptional digital experiences.
   In my journey to becoming a full-stack web developer, I've gained proficiency in.</p>
-# 💻 Tech Stack:
+<h2>💻 Tech Stack:</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
