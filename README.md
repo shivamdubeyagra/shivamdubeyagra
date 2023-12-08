@@ -22,6 +22,7 @@
 <!-- ## 🌐 Conntect to m
 -->
 ### Connect with me:
+<hr>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-dubey-agra/) 
 [![portfolio](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/dc86a604-32d9-4c86-8da2-598cacce6c94)](https://shivamdubeyagra.github.io/)
 
