@@ -1,9 +1,7 @@
 
 ![banner (2)](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/37116713-282c-4c1b-bcd7-62ad28ccea11)
 # Hi there👋 I am Shivam Dubey
-## 🌐 Socicals
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-dubey-agra/)
-<div align="center">
+<div align="left">
   <h1>🚀 Full-Stack Web Developer 🚀</h1>
   <p>Excited about the endless possibilities of web development, I'm committed to delivering high-quality, scalable, and secure web solutions.
   Eager to contribute my technical expertise, creativity, and problem-solving abilities to a dynamic team dedicated to crafting exceptional digital experiences.
@@ -21,6 +19,10 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Mongoose-47A248?style=flat-square&logo=mongoose&logoColor=white&logoWidth=40" alt="Mongoose">
 </p>
+<!-- ## 🌐 Conntect to m
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-dubey-agra/) -->
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shivam-dubey-agra/) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://shivamdubeyagra.github.io/)
 
   <p>Let's build something amazing together! 💻🌐</p>
 </div>
