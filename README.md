@@ -25,10 +25,11 @@
 </div>
   <p>Let's build something amazing together! 💻🌐</p>
 
-<h2>🌐 Connect with me</h2>
+# 🌐 Connect with me:
+   ## Portfolio:- [Shivam Dubey](https://Tapishagrawal.github.io)                 
+   ## LinkedIn:- [shivam-dubey-agra](https://www.linkedin.com/in/shivam-dubey-agra/)
+   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-dubey-agra) 
-🌐[portfolio](https://github.com/your-username)
 # 📊 GitHub Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shivamdubeyagra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
