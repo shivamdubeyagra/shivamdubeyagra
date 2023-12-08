@@ -20,9 +20,10 @@
   <img src="https://img.shields.io/badge/Mongoose-47A248?style=flat-square&logo=mongoose&logoColor=white&logoWidth=40" alt="Mongoose">
 </p>
 <!-- ## 🌐 Conntect to m
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-dubey-agra/) -->
+-->
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shivam-dubey-agra/) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://shivamdubeyagra.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-dubey-agra/) 
+[![portfolio](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/dc86a604-32d9-4c86-8da2-598cacce6c94)](https://shivamdubeyagra.github.io/)
 
   <p>Let's build something amazing together! 💻🌐</p>
 </div>
