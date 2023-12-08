@@ -1,5 +1,6 @@
 
-![banner (2)](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/37116713-282c-4c1b-bcd7-62ad28ccea11)
+![github-header-image (1)](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/27fffb21-c53f-4174-b707-379fcb2bb5f6)
+
 # Hi there👋 I am Shivam Dubey
 <div align="left">
   <h1>🚀 Full-Stack Web Developer 🚀</h1>
