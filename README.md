@@ -25,7 +25,7 @@
   <p>Let's build something amazing together! 💻🌐</p>
 
 # 🌐 Connect with me:
-   ## Portfolio:- [Shivam Dubey](https://Tapishagrawal.github.io)                 
+   ## Portfolio:- [Shivam Dubey](https://shivamdubeyagra.github.io)                 
    ## LinkedIn:- [shivam-dubey-agra](https://www.linkedin.com/in/shivam-dubey-agra/)
    
 
