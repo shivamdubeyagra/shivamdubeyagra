@@ -27,8 +27,6 @@
 # 🌐 Connect with me:
    [![LinkedIn](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/e7408160-8f43-4440-9c26-192e334ff700)](https://www.linkedin.com/in/shivam-dubey-agra/)
    [![Portfolio](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/efd926cb-0a80-4579-a357-905f2eb4863e)](https://shivamdubeyagra.github.io)
-    [![Portfolio](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/de7f61ae-db43-443a-ac24-e7ddd6d1c3dd)](https://github.com/shivamdubeyagra/shivamdubeyagra/files/13652036/Shivam-Dubey-Resume.8.pdf)
-
 
 # 📊 GitHub Stats:
 <div align="left">
