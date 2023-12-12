@@ -23,12 +23,10 @@
 </p>
 </div>
   <p>Let's build something amazing together! 💻🌐</p>
-![icons8-gmail-48]()
 
 # 🌐 Connect with me:
    [![LinkedIn](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/e7408160-8f43-4440-9c26-192e334ff700)](https://www.linkedin.com/in/shivam-dubey-agra/)
    [![Portfolio](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/efd926cb-0a80-4579-a357-905f2eb4863e)](https://shivamdubeyagra.github.io)
-   [![Gmail](https://github.com/shivamdubeyagra/shivamdubeyagra/assets/121815825/8793c6e1-af54-40a3-b7ba-d4fa1b159963)](shivamdubeyagra@gmail.com)
 # 📊 GitHub Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shivamdubeyagra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
